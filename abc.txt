@@ -1,0 +1,2 @@
+This is simple text file . I am using this file to add in local workig area.
+
