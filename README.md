@@ -12,7 +12,10 @@ This is the web-starter app . This is static website , So no need to host in the
 Sample website with plenty of files for demos
 
 ## How to contribute
-
+   
+   We can contribute through new lines only.
 
 
 ## Deployment
+ 
+ The deployment will happen in the browser only .
